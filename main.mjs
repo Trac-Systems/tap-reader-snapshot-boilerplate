@@ -20,7 +20,7 @@ let decimals = 18
 // edit end
 
 let instances = 0;
-let holders_length = await tracCore.tapProtocol.getHoldersLength('karma')
+let holders_length = await tracCore.tapProtocol.getHoldersLength(token)
 
 console.log('Historic Holders length', holders_length);
 
