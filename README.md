@@ -2,7 +2,7 @@
 
 This boilerplate extends a tap reader to allow for creating token snapshots for tokens on the TAP Protocol.
 
-It will take a snaphot for a given token and store the snapshot results
+It will take a snaphot for a given token and store the snapshot results in the file "out.csv" in the root-directory of your TAP Reader.
 
 # Requirements
 
