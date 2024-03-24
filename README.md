@@ -25,4 +25,6 @@ Then...
 - in the TAP Reader, replace the file "src/main.mjs" with the file "main.mjs" of the cloned boilerplate repository.
 - open the replaced "main.mjs" file and make adjustments to the token ticker and decimals your snapshot will be for.
 
-Start the TAP Reader and wait for the snapshot to be finished. If you don't need snapshot anymore, please replace the original "main.mjs" again.
+Start the TAP Reader and wait for the snapshot to be finished. The results will be stored in the file "out.csv" in the root-directory of TAP Reader.
+
+If you don't need snapshot anymore, please replace the original "main.mjs" again.
